@@ -1,6 +1,5 @@
 # ProjectoJuegoPython
-Juego desarrollado con el aprendizaje de la biblioteca pygame. Contenido aprendido mediante youtube.
-
+Juego desarrollado con el aprendizaje de la biblioteca pygame. 
 # Juego de ataque de asteroides - pygame 
 
 # Introducción -->
