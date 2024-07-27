@@ -1,4 +1,4 @@
-# ProjectoJuegoPython
+# ProyectPythonGame_FrancoCipulli
 Juego desarrollado con el aprendizaje de la biblioteca pygame. 
 # Juego de ataque de asteroides - pygame 
 
